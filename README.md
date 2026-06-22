@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello Friend
 
-<!--
-**fsocietyweb/fsocietyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is my account and you will know lots of things about me
 
-Here are some ideas to get you started:
+Lets Start with Languages i learn:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.C++
+2.JavaScript
+3.Rust (MAYBE)
+
+Languages i can make TUI Programms:
+
+1.Shell
+2.Python
+3.Ruby
+
+My Fav Shows:
+
+Mr Robot (2015-2019)
+Gravity Falls (2012-2016)
+Spongebob (idunno-Present)
+
+My Fav Song Types:
+
+Nightcore
+Breakcore
+Jumpstyle
+
+My Fav Artists:
+
+1.Romanceplanet
+2.Latex Fruit
+3.Boywithuke
+
+thats it i guess
