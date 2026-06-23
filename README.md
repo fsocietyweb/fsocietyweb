@@ -2,7 +2,7 @@
 
 this is my account and you will know lots of things about me
 
-Lets Start with Languages i learn:
+## Lets Start with Languages i learn:
 
 1.C++
 
@@ -10,7 +10,7 @@ Lets Start with Languages i learn:
 
 3.Rust (MAYBE)
 
-Languages i can make TUI Programms:
+## Languages i can make TUI Programms:
 
 1.Shell
 
@@ -18,7 +18,7 @@ Languages i can make TUI Programms:
 
 3.Ruby
 
-My Fav Shows:
+## My Fav Shows:
 
 Mr Robot (2015-2019)
 
@@ -26,7 +26,7 @@ Gravity Falls (2012-2016)
 
 Spongebob (idunno-Present)
 
-My Fav Song Types:
+## My Fav Song Types:
 
 Nightcore
 
@@ -34,7 +34,7 @@ Breakcore
 
 Jumpstyle
 
-My Fav Artists:
+## My Fav Artists:
 
 1.Romanceplanet
 
